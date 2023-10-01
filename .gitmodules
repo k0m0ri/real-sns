@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/k0m0ri/real-sns-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/k0m0ri/real-sns-backend.git
